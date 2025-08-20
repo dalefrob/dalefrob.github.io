@@ -1,0 +1,21 @@
+OotO Demo2 Patch Notes:
+
+New:
+Added one more level with new tiles, background and music.
+Backgrounds move in parralax.
+Added Pygmy and Candle Witch monsters.
+Added a turret hazard.
+Added doors to teleport you to other parts of a level.
+Added an extra life item.
+Added a title screen image.
+Added difficulty selection.
+
+Modified:
+Yttrith sprite updated and reduced hitbox size.
+Jungle tiles were given some beautification.
+Black Blood is killable and its sprite was updated.
+Gobbula has a set horizontal range.
+Keys are now runes (key holders and doors to come later)
+Added symbol tiles to help understand what switch does what.
+Some point items were redesigned.
+Lots of engine code...
