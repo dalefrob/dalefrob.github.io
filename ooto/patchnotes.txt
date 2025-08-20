@@ -1,4 +1,4 @@
-OotO Demo2 Patch Notes:
+OotO Demo2 20/08/2025:
 
 New:
 Added one more level with new tiles, background and music.
@@ -14,7 +14,7 @@ Modified:
 Yttrith sprite updated and reduced hitbox size.
 Jungle tiles were given some beautification.
 Black Blood is killable and its sprite was updated.
-Gobbula has a set horizontal range.
+Gobbula has a set horizontal range to patrol.
 Keys are now runes (key holders and doors to come later)
 Added symbol tiles to help understand what switch does what.
 Some point items were redesigned.
