@@ -1,0 +1,48 @@
+// Word Clash word list. Put this file in the same folder as the game.
+// Edit the CSV lines between the backticks. Keep the first and last lines as they are.
+window.WORDS_CSV = `
+module,word,definition
+Ecosystems,producer,"An organism that makes its own food, usually using sunlight"
+Ecosystems,consumer,An organism that gets energy by eating other living things
+Ecosystems,decomposer,An organism that breaks down dead plants and animals
+Ecosystems,habitat,The natural home where a plant or animal lives
+Ecosystems,predator,An animal that hunts other animals for food
+Ecosystems,prey,An animal that is hunted and eaten by another animal
+Ecosystems,food chain,A path that shows how energy passes from one living thing to another
+Ecosystems,adaptation,A feature that helps a living thing survive in its environment
+Ecosystems,population,All the members of one species living in the same area
+Ecosystems,ecosystem,All the living and non-living things in an area working together
+Literary Terms,simile,A comparison using the words like or as
+Literary Terms,metaphor,A comparison that says one thing is another thing
+Literary Terms,personification,Giving human qualities to an animal or object
+Literary Terms,alliteration,Repeating the same first sound in nearby words
+Literary Terms,onomatopoeia,A word that imitates the sound it describes
+Literary Terms,hyperbole,An extreme exaggeration used for effect
+Literary Terms,protagonist,The main character in a story
+Literary Terms,setting,Where and when a story takes place
+Literary Terms,theme,The message or lesson of a story
+Literary Terms,foreshadowing,Hints or clues about what will happen later in a story
+Geometry,perimeter,The total distance around the outside of a shape
+Geometry,area,The amount of space inside a flat shape
+Geometry,parallel,Lines that never meet and are always the same distance apart
+Geometry,perpendicular,Lines that meet to form a right angle
+Geometry,acute angle,An angle smaller than 90 degrees
+Geometry,obtuse angle,An angle bigger than 90 degrees but smaller than 180 degrees
+Geometry,vertex,The point where two or more lines or edges meet
+Geometry,polygon,A closed flat shape with three or more straight sides
+Geometry,symmetry,When one half of a shape is a mirror image of the other half
+Language Arts Ch4,coral polyp,a tiny sea creature
+Language Arts Ch4,jellyfish,sea creatures with jelly-like bodies
+Language Arts Ch4,sea anemones,sea creatures that look like flowers
+Language Arts Ch4,colonies,large groups
+Language Arts Ch4,reef-dwellers,creatures that live on the reef
+Language Arts Ch4,evolve,develop
+Language Arts Ch4,vast array,huge variety
+Language Arts Ch4,coral bleaching,when coral turns white because it is dying
+Language Arts Ch4,ice floe,ice that has been pressed together to form a floating piece of ice
+Language Arts Ch4,pack ice,massive areas of thick ice that float on the ocean
+Language Arts Ch4,polynyas,narrow strips of water on an icefloe
+Language Arts Ch4,polar,related to the South Pole or North Pole
+Language Arts Ch4,Russian ice breaker,a ship that can break through ice
+Language Arts Ch4,bow,the front parts of boats
+`;
