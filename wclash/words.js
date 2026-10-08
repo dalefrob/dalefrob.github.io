@@ -45,4 +45,18 @@ Language Arts Ch4,polynyas,narrow strips of water on an icefloe
 Language Arts Ch4,polar,related to the South Pole or North Pole
 Language Arts Ch4,Russian ice breaker,a ship that can break through ice
 Language Arts Ch4,bow,the front parts of boats
+Langauge Arts Ch1,admired,respected and approved of
+Langauge Arts Ch1,comb,"a soft, red growth on a chicken's head"
+Langauge Arts Ch1,respectful,showing admiration for someone or something
+Langauge Arts Ch1,chores,jobs around the house that need doin regularly
+Langauge Arts Ch1,parched,very dry or very thirsty
+Langauge Arts Ch1,famished,very hungry
+Langauge Arts Ch1,was on the fence,couldn�t decide between two things
+Langauge Arts Ch1,tiptoed,to walk quietly on your toes with the heel of your foot lifted off the ground
+Langauge Arts Ch1,trembling,"to shake a little because you are cold, afraid or emotional"
+Langauge Arts Ch1,it finally dawned on,to understand something after a long period of not understanding it
+Langauge Arts Ch1,sit tight,to wait patiently and take no action
+Langauge Arts Ch1,gleam,to shine
+Langauge Arts Ch1,stand out in the crowd,to be very noticeable
+Langauge Arts Ch1,striking a pose,moving your body into a particular position
 `;
